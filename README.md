@@ -1,5 +1,5 @@
 # Description
-This webpage is an archive for my research. 
+This page follows my research into terrestrial ecosystems, the methods and code that I use to analyse them.
 
 # Current Research Projects
 ## Charcoal Production
