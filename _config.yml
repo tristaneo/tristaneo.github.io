@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
 title: Tristan Williams
-author: Tristan Williams
+#author: Tristan Williams
 description: PhD Researcher in Remote Sensing at Universitat de Valencia, European Space Agency and University of Leipzig.
 
 #nav-bar links:
@@ -24,6 +24,6 @@ description: PhD Researcher in Remote Sensing at Universitat de Valencia, Europe
   #Twitter: https://twitter.com/Tristan_Earth
   #google-scholar: https://scholar.google.com/citations?user=yoNnOcMAAAAJ&hl=en&oi=ao
   
- plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
+ #plugins:
+  #- jekyll-paginate
+  #- jekyll-sitemap
