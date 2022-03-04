@@ -5,9 +5,9 @@ description: PhD Researcher in Remote Sensing at Universitat de Valencia, Europe
 
 nav-bar links:
   About Me: ""
+  Projects: ""
   Code: ""
-  Posts: ""
- 
+  Papers: "" 
 #avatar: "![moustache](https://user-images.githubusercontent.com/98157176/156788671-b99523ad-0d86-4ff1-9bf7-b920422594db.jpg)"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
