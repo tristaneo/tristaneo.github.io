@@ -3,15 +3,15 @@ title: Tristan Williams
 author: Tristan Williams
 description: PhD Researcher in Remote Sensing at Universitat de Valencia, European Space Agency and University of Leipzig.
 
-nav-bar links:
-  About Me: ""
-  Code: 
-  Posts:
+#nav-bar links:
+ # About Me: ""
+  #Code: 
+  #Posts:
  
-avatar: "![moustache](https://user-images.githubusercontent.com/98157176/156788671-b99523ad-0d86-4ff1-9bf7-b920422594db.jpg)"
+#avatar: "![moustache](https://user-images.githubusercontent.com/98157176/156788671-b99523ad-0d86-4ff1-9bf7-b920422594db.jpg)"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+#round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
