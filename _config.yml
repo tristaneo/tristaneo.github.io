@@ -1,12 +1,12 @@
 theme: jekyll-theme-slate
 title: Tristan Williams
-#author: Tristan Williams
+author: Tristan Williams
 description: PhD Researcher in Remote Sensing at Universitat de Valencia, European Space Agency and University of Leipzig.
 
-#nav-bar links:
- # About Me: ""
-  #Code: 
-  #Posts:
+nav-bar links:
+  About Me: ""
+  Code: ""
+  Posts: ""
  
 #avatar: "![moustache](https://user-images.githubusercontent.com/98157176/156788671-b99523ad-0d86-4ff1-9bf7-b920422594db.jpg)"
 
@@ -15,7 +15,7 @@ description: PhD Researcher in Remote Sensing at Universitat de Valencia, Europe
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: ![moustache](https://user-images.githubusercontent.com/98157176/156788671-b99523ad-0d86-4ff1-9bf7-b920422594db.jpg)
+title-img: ![moustache](https://user-images.githubusercontent.com/98157176/156788671-b99523ad-0d86-4ff1-9bf7-b920422594db.jpg)
  
 #social-network-links:
  # email: Tristan.Williams@esa.int
