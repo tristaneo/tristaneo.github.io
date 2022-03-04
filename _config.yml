@@ -15,14 +15,14 @@ description: PhD Researcher in Remote Sensing at Universitat de Valencia, Europe
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: ![moustache](https://user-images.githubusercontent.com/98157176/156788671-b99523ad-0d86-4ff1-9bf7-b920422594db.jpg)
+#title-img: ![moustache](https://user-images.githubusercontent.com/98157176/156788671-b99523ad-0d86-4ff1-9bf7-b920422594db.jpg)
  
-social-network-links:
-  email: Tristan.Williams@esa.int
-  github: https://github.com/tristaneo
-  Linkedin: https://it.linkedin.com/in/tristan-williams-440143180
-  Twitter: https://twitter.com/Tristan_Earth
-  google-scholar: https://scholar.google.com/citations?user=yoNnOcMAAAAJ&hl=en&oi=ao
+#social-network-links:
+ # email: Tristan.Williams@esa.int
+  #github: https://github.com/tristaneo
+  #Linkedin: https://it.linkedin.com/in/tristan-williams-440143180
+  #Twitter: https://twitter.com/Tristan_Earth
+  #google-scholar: https://scholar.google.com/citations?user=yoNnOcMAAAAJ&hl=en&oi=ao
   
  plugins:
   - jekyll-paginate
