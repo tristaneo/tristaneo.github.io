@@ -9,14 +9,14 @@ nav-bar links:
   Code: 
   Posts:
  
-avatar: ""
+avatar: "![moustache](https://user-images.githubusercontent.com/98157176/156788671-b99523ad-0d86-4ff1-9bf7-b920422594db.jpg)"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: ![moustache](https://user-images.githubusercontent.com/98157176/156788671-b99523ad-0d86-4ff1-9bf7-b920422594db.jpg)
  
 social-network-links:
   email: Tristan.Williams@esa.int
