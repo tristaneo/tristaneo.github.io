@@ -1,9 +1,8 @@
 theme: jekyll-theme-slate
 title: Tristan Williams
 author: Tristan Williams
-description: PhD Researcher in Remote Sensing at Universitat de Valencia, European Space Agency and University of Leipzig.
-{% avatar [tristaneo] %}
-
+description: {% avatar [tristaneo] %}
+ PhD Researcher in Remote Sensing at Universitat de Valencia, European Space Agency and University of Leipzig.
 # nav-bar links:
 #   About Me: ""
 #   Projects: ""
