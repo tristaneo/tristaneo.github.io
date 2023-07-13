@@ -1,6 +1,5 @@
 <img style="margin-right: 1.5rem" align="left" width="200" src="./assets/images/pic.jpeg"/>
-<p>## Welcome!
-I am a PhD researcher in Remote Sensing based at the University of Valencia co-hosted by the European Space Agency and the University of Leipzig under the ELLIS Programme. My interests are based around the terrestrial biosphere and the interaction with climate and anthropagentic activities. This website follows my research into terrestrial ecosystems, the methods and code that I use to analyse them. Supporter of Open Science.</p>
+<p>I am a PhD researcher in Remote Sensing based at the University of Valencia co-hosted by the European Space Agency and the University of Leipzig under the ELLIS Programme. My interests are based around the terrestrial biosphere and the interaction with climate and anthropagentic activities. This website follows my research into terrestrial ecosystems, the methods and code that I use to analyse them. Supporter of Open Science.</p>
 <br />
 <br />
 
