@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "projects.md"
+title: "Projects"
 permalink: /projects/
 ---
-This is a test
