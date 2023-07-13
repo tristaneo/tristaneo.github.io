@@ -1,5 +1,5 @@
 layout: page
 title: "Projects"
-permalink: /URL-PATH
+permalink: /projects
 
 This is a test
