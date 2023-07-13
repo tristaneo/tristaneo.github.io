@@ -1,6 +1,6 @@
 ---
-title: Projects
-layout: template
-filename: projects.md
---- 
+layout: page
+title: "Projects"
+permalink: /projects/
+---
 This is a test
