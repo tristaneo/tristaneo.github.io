@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Projects"
-permalink: /projects/
+title: "Research"
+permalink: /research/
 ---
 ## Characterising Persistance in European Vegetation
 
