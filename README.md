@@ -5,5 +5,5 @@ I am a PhD researcher in Remote Sensing based at the University of Valencia co-h
 > ### Characterising Persistance in European Vegetation
 > ### Non-Linear Memory Estimation
 > ### XtremeExplorer - Open Source Explainable AI Toolbox to Detection and Atrribute Extreme Events
-> ### Charcoal Production
+> ### Detecting Charcoal Production in Mozambique
 
