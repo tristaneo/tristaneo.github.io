@@ -1,5 +1,5 @@
 layout: page
 title: "Projects"
-permalink: https://tristaneo.github.io/projects
+permalink: /projects/
 
 This is a test
