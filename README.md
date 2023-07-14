@@ -1,5 +1,6 @@
 # Tristan K. E. Williams
-
+PhD Researcher
+University of Valencia
 
 <img style="float: left; margin-right: 10px;" width="200" src="./assets/images/pic.jpeg">
 
