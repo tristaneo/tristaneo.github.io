@@ -10,7 +10,7 @@ plugins:
 
 # Navigation
 nav:
-  - title: About
+  - title: Home
     url: /
   - title: Research
     url: /research
