@@ -1,3 +1,6 @@
+# Tristan K. E. Williams
+
+
 <img style="float: left; margin-right: 10px;" width="200" src="./assets/images/pic.jpeg">
 
 ## Welcome!
