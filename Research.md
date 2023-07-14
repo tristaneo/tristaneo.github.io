@@ -1,5 +1,5 @@
 ---
-theme: jekyll-theme-slate
+theme: minima
 layout: page
 title: "Research"
 permalink: /research/
