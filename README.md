@@ -1,6 +1,4 @@
 # Tristan K. E. Williams
-<font size=”11”>University of Valencia</font>
-
 
 <img style="float: left; margin-right: 10px;" width="200" src="./assets/images/pic.jpeg">
 
