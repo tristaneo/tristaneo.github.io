@@ -2,10 +2,6 @@ theme: jekyll-theme-slate
 title: Tristan Williams
 author: Tristan Williams
 
-# Build settings
-#markdown: kramdown # Specify the Markdown engine (options: kramdown, redcarpet, etc.)
-#theme: minima # The Jekyll theme to use
-
 # Plugins
 plugins:
   - jekyll-feed # Generate an RSS feed for your site
