@@ -1,9 +1,38 @@
-theme: jekyll-theme-slate
+#theme: jekyll-theme-slate
 title: Tristan Williams
 author: Tristan Williams
 
-header_pages:
- - Research.md
+# Build settings
+markdown: kramdown # Specify the Markdown engine (options: kramdown, redcarpet, etc.)
+theme: minima # The Jekyll theme to use
+
+# Plugins
+plugins:
+  - jekyll-feed # Generate an RSS feed for your site
+  - jekyll-sitemap # Generate a sitemap for your site
+  - jekyll-seo-tag # Generate SEO-related meta tags
+
+# Navigation
+nav:
+  - title: Home
+    url: /
+  - title: Research
+    url: /research
+
+# Social media links
+social:
+  - title: Twitter
+    url: https://twitter.com/tristankew
+  - title: GitHub
+    url: https://github.com/tristaneo
+
+# Build configuration
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
 
 # nav-bar links:
 #   About Me: ""
@@ -25,6 +54,3 @@ header_pages:
   #Linkedin: https://it.linkedin.com/in/tristan-williams-440143180
   #Twitter: https://twitter.com/Tristan_Earth
   #google-scholar: https://scholar.google.com/citations?user=yoNnOcMAAAAJ&hl=en&oi=ao
-  
-plugins:
-  - jekyll-avatar
