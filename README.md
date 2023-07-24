@@ -7,6 +7,6 @@
 # Current Research Projects
 > ### Characterising Persistance in European Vegetation
 > ### Non-Linear Memory Estimation
-> ### XtremeExplorer - Open Source Explainable AI Toolbox to Detection and Attribute Extreme Events
+> ### AIDE Open Source Toolbox- Artifial Intelligence for Disentangling Extremes
 > ### Detecting Charcoal Production in Mozambique
 
